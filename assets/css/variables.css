@@ -1,8 +1,8 @@
 :root
 {
-    --primary-color: #330000;
+    --primary-color: #720000;
     --white-color: #fff;
     --light-red-color: rgb(255, 200, 200);
-    --secondary-color: crimson;
+    --secondary-color: #00BF36;
     --gap: 3rem;
 }
