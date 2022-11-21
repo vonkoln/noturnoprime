@@ -4,6 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
 html
 {
     font-size: 62.5%;
@@ -17,12 +19,16 @@ html
 }
 body
 {
-    font-family:disney;
+    font-family: 'Open Sans', sans-serif;
     font-size: 2rem;
     color: var(--primary-color);
     line-height: 1.5;
 }
-h1, h2, h3, h4, h5, h6
+h1, h3, h4, h5, h6
+{
+    font-family:'Montserrat', sans-serif;
+}
+h2
 {
     font-family:disney;
 }
